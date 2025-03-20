@@ -1,7 +1,7 @@
 
 ---------------------------------------------------------------------------
 -- HASKELL TOKENS FOR EXPRESSIONS AND COMMANDS FOR IMPERATIVE LANGUAGE IMP                          
--- Roy L. Crole and Paula Severi 2024                                            
+                                            
 ---------------------------------------------------------------------------
 
 

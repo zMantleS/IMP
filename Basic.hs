@@ -1,7 +1,7 @@
  
 ------------------------------------------------------------------- 
 -- HASKELL BASIC LIST AND STRING PROCESSING FUNCTIONS           
--- Roy L. Crole and Paula Severi 2024                                         
+                                         
 ------------------------------------------------------------------- 
 
 module Basic where

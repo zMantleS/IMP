@@ -1,7 +1,7 @@
  
 ---------------------------------------------------------------------
 -- MAIN FILE: HASKELL USERS' FUNCTIONS FOR IMP                                 
--- Roy L. Crole and Paula Severi 2024                                              
+                                              
 ---------------------------------------------------------------------
 
 module Main where
